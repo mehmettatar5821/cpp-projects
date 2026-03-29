@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
-using namespace std;
- 
+using namespace std;                                                   
+  
  float exp(float x, float y);
    
 int main( ) {
